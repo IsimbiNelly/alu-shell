@@ -1,9 +1,0 @@
-#!/usr/bin/env bash
-# Script to display the content of the current directory, showing names after the first dash
-ls="$(ls)"
-for list  in $ls 
-do
-	file=$(echo "$list" |cut -d"-" -f 2)
-	echo "$file"
-done
-

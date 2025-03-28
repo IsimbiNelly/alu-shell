@@ -1,2 +1,0 @@
-#!/bin/bash
-echo "$(find . -type d -not -path '.' -not -path './..' | wc -l)"
