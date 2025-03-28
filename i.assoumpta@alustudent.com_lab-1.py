@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
 ALU Grade Calculator - Ready for Terminal Use
-Student: [Your Name]
-Email: [Your Email]@alustudent.com
+Student: Isimbi Nelly Assoumpta
+Email: i.assoumpta@alustudent.com
 """
 
 class GradeCalculator:
